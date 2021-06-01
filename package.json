@@ -1,0 +1,27 @@
+{
+  "name": "@D-nDev/cra-template-d-ndev",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/D-nDev/cra-template-dn-dev.git"
+  },
+  "main": "template.json",
+  "version": "1.0.6",
+  "author": "Diego Novaes",
+  "description": "Diego personal custom template",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "cra-template"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
