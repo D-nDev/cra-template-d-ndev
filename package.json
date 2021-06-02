@@ -1,14 +1,11 @@
 {
-  "name": "@D-nDev/cra-template-d-ndev",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
+  "name": "cra-template-d-ndev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/D-nDev/cra-template-dn-dev.git"
+    "url": "https://github.com/D-nDev/cra-template-d-ndev.git"
   },
   "main": "template.json",
-  "version": "1.0.6",
+  "version": "1.0.0",
   "author": "Diego Novaes",
   "description": "Diego personal custom template",
   "keywords": [
