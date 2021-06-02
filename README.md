@@ -3,7 +3,7 @@
 ## yarn
 
 ```sh
-yarn create react-app my-app --template dn-dev
+yarn create react-app my-app --template dn-dev or use npx
 ```
 
 ### Includes
