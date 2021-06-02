@@ -1,6 +1,6 @@
 # How to use
 
-## yarn
+## yarn/npx
 
 ```sh
 yarn create react-app my-app --template d-ndev or
