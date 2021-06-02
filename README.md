@@ -3,7 +3,7 @@
 ## yarn
 
 ```sh
-yarn create react-app my-app --template d-ndev or use 
+yarn create react-app my-app --template d-ndev or
 npx create-react-app my-app --template d-ndev
 ```
 
@@ -14,6 +14,7 @@ npx create-react-app my-app --template d-ndev
 - [react-testing-library][react-testing-library]
 - [bootstrap 5][bootstrap]
 - [sass][node-sass]
+- [styledcomponents][styled-components]
 
 ### Features
 
